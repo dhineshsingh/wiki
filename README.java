@@ -14,4 +14,4 @@ public String longestCommonPrefix(String[] strs) {
 +        longestPrefix = strs[i].substring(0, j);
 +    }
 +    return longestPrefix;
-+}
++}  
